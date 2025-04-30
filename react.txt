@@ -8,3 +8,6 @@ Remote Repository: Hosted on GitHub (or others).
 
 Diagram suggestion: Local → Stage → Commit → Push → BitBucket
 added this line from github or another developer
+React with vite is more manageable and easy.
+line added by nextjs.
+a line that depicts pull requests.
