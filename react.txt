@@ -6,4 +6,4 @@ Local Repository: Where commits are saved.
 
 Remote Repository: Hosted on GitHub (or others).
 
-Diagram suggestion: Local → Stage → Commit → Push → GitHub
+Diagram suggestion: Local → Stage → Commit → Push → BitBucket
