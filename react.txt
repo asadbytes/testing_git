@@ -1,0 +1,9 @@
+Working Directory: Where you edit files.
+
+Staging Area (Index): Where you add changes to prepare for commit.
+
+Local Repository: Where commits are saved.
+
+Remote Repository: Hosted on GitHub (or others).
+
+Diagram suggestion: Local → Stage → Commit → Push → GitHub
