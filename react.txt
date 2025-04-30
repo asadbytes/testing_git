@@ -9,4 +9,4 @@ Remote Repository: Hosted on GitHub (or others).
 Diagram suggestion: Local → Stage → Commit → Push → BitBucket
 added this line from github or another developer
 React with vite is more manageable and easy.
-file added by backend.
+file added by backend
